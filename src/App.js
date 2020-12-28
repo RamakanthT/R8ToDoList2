@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
-import {directive} from '@babel/types';
+//import {directive} from '@babel/types';
 
 //import child component to parent component
 import {TodoBanner} from "./features/TodoBanner";
